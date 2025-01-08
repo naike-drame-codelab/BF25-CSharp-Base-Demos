@@ -5,7 +5,7 @@ using System.Text;
 
 // écrire dans la console
 Console.WriteLine("Bonjour!");
-Console.WriteLine("Comment vous appelez-vous ?");
+Console.Write("Comment vous appelez-vous ? : ");
 
 // lire dans la console
 string input = Console.ReadLine();
