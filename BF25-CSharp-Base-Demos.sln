@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo10_Structures_Condition
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo11_Boucles", "Demo11_Boucles\Demo11_Boucles.csproj", "{C32C47BA-A660-49E3-B0B1-E5FF9CC1F1B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo12_Tableaux", "Demo12_Tableaux\Demo12_Tableaux.csproj", "{AB7E93F9-CFDD-415C-8613-DCDCD6237CA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C32C47BA-A660-49E3-B0B1-E5FF9CC1F1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C32C47BA-A660-49E3-B0B1-E5FF9CC1F1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C32C47BA-A660-49E3-B0B1-E5FF9CC1F1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7E93F9-CFDD-415C-8613-DCDCD6237CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7E93F9-CFDD-415C-8613-DCDCD6237CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7E93F9-CFDD-415C-8613-DCDCD6237CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7E93F9-CFDD-415C-8613-DCDCD6237CA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
