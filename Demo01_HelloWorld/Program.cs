@@ -3,11 +3,11 @@ using System.Text;
 
 #region Console.WriteLine(), Console.ReadLine()
 
-// Ecrire dans la console
+// écrire dans la console
 Console.WriteLine("Bonjour!");
 Console.WriteLine("Comment vous appelez-vous ?");
 
-// Lire dans la console
+// lire dans la console
 string input = Console.ReadLine();
 
 ConsoleKey key = Console.ReadKey(true).Key;
